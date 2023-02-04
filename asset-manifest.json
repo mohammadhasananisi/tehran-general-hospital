@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa5da6cb.chunk.css",
+    "main.js": "/static/js/main.77f125c4.chunk.js",
+    "main.js.map": "/static/js/main.77f125c4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df8613b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df8613b9.js.map",
+    "static/css/2.c09d24c0.chunk.css": "/static/css/2.c09d24c0.chunk.css",
+    "static/js/2.109fd5ef.chunk.js": "/static/js/2.109fd5ef.chunk.js",
+    "static/js/2.109fd5ef.chunk.js.map": "/static/js/2.109fd5ef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4590d25a481f128818722b6a605af81d.js": "/precache-manifest.4590d25a481f128818722b6a605af81d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c09d24c0.chunk.css.map": "/static/css/2.c09d24c0.chunk.css.map",
+    "static/css/main.fa5da6cb.chunk.css.map": "/static/css/main.fa5da6cb.chunk.css.map",
+    "static/js/2.109fd5ef.chunk.js.LICENSE.txt": "/static/js/2.109fd5ef.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/static/media/IRANSansWeb_Medium.f668b5fa.eot",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df8613b9.js",
+    "static/css/2.c09d24c0.chunk.css",
+    "static/js/2.109fd5ef.chunk.js",
+    "static/css/main.fa5da6cb.chunk.css",
+    "static/js/main.77f125c4.chunk.js"
+  ]
+}
