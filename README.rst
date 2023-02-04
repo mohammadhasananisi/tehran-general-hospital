@@ -68,6 +68,6 @@ Demo
 Authors
 -------
 
-Keep In Touch `Email <mailto:mohammadhasananisiqom@gmail.com>`__ - `github <https://github.com/mohammadhasananisi>`__ - `Telegram <https://t.me/mohammadhasananisi>`__ - `Linkedin <https://linkedin.com/in/mohammadhasan-anisi-159757202>`__.
+Keep In Touch with Mohammad Hasan Anisi `Email <mailto:mohammadhasananisiqom@gmail.com>`__ - `github <https://github.com/mohammadhasananisi>`__ - `Telegram <https://t.me/mohammadhasananisi>`__ - `Linkedin <https://linkedin.com/in/mohammadhasan-anisi-159757202>`__.
 
 Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__ !
