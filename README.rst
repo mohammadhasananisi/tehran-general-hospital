@@ -12,6 +12,7 @@ You need to open your terminal or cmd in this project, then follow below command
     sudo php -S 127.0.0.1:80
 ::
 
+------
 *you must open cmd as administrator*
 .. code:: shell
     php -S 127.0.0.1:80
