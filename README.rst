@@ -7,14 +7,14 @@ Usage
 You need to open your terminal or cmd in this project, then follow below command
 
 In terminal
-.. code:: shell
+.. code:: 
    sudo php -S 127.0.0.1:80
 
 
 ::
 
 you must open cmd as administrator
-.. code:: shell
+.. code:: 
    php -S 127.0.0.1:80
 
 ::
